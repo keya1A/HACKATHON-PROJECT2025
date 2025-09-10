@@ -1,6 +1,6 @@
 import React from "react";
 import DailyQuiz from "./DailyQuiz";
-import LeaderBoard from "./LeaderBoard";
+import LeaderBoard from "./Leaderboard";
 import SpinWheel from "./SpinWheel";
 
 const FunZone = () => {
@@ -32,3 +32,4 @@ const FunZone = () => {
 };
 
 export default FunZone;
+
