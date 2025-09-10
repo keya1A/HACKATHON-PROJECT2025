@@ -1,0 +1,34 @@
+{
+  "name": "NATPAC Kerala - Smart Travel Platform",
+  "short_name": "NATPAC Kerala",
+  "description": "Smart Travel Data Collection Platform for Kerala - God's Own Country",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#059669",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiByeD0iNDAiIGZpbGw9InVybCgjZ3JhZGllbnQpIi8+CjxwYXRoIGQ9Ik05NiAzMkM4MC41IDMyIDY4IDQ0LjUgNjggNjBWODBDNjggODguODM3IDc1LjE2MyA5NiA4NCA5NkgxMDhDMTE2LjgzNyA5NiAxMjQgODguODM3IDEyNCA4MFY2MEMxMjQgNDQuNSAxMTEuNSAzMiA5NiAzMloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik04NCA5NlYxMzJDODQgMTQwLjgzNyA3Ni44MzcgMTQ4IDY4IDE0OEg1MkMzNS40MyAxNDggMjIgMTM0LjU3IDIyIDExOFYxMDBDMjIgOTEuMTYzIDI5LjE2MyA4NCAzOCA4NEg4NFoiIGZpbGw9IndoaXRlIiBmaWxsLW9wYWNpdHk9IjAuOCIvPgo8cGF0aCBkPSJNMTA4IDk2VjEzMkMxMDggMTQwLjgzNyAxMTUuMTYzIDE0OCAxMjQgMTQ4SDE0MEMxNTYuNTcgMTQ4IDE3MCAxMzQuNTcgMTcwIDExOFYxMDBDMTcwIDkxLjE2MyAxNjIuODM3IDg0IDE1NCA4NEgxMDhaIiBmaWxsPSJ3aGl0ZSIgZmlsbC1vcGFjaXR5PSIwLjgiLz4KPHN2ZyBpZD0iZ3JhZGllbnQiPgo8ZGVmcz4KPGxpbmVhckdyYWRpZW50IGlkPSJncmFkaWVudCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwNTk2NjkiLz4KPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMEVBNUU5Ii8+CjwvbGluZWFyR3JhZGllbnQ+CjwvZGVmcz4KPC9zdmc+Cjwvc3ZnPg==",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiByeD0iMTA0IiBmaWxsPSJ1cmwoI2dyYWRpZW50KSIvPgo8cGF0aCBkPSJNMjU2IDg1QzIxNC42IDg1IDE4MSAxMTguNiAxODEgMTYwVjIxM0MxODEgMjM1LjEgMTk4LjkgMjUzIDIyMSAyNTNIMjkxQzMxMy4xIDI1MyAzMzEgMjM1LjEgMzMxIDIxM1YxNjBDMzMxIDExOC42IDI5Ny40IDg1IDI1NiA4NVoiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0yMjEgMjUzVjM1MUMyMjEgMzczLjEgMjAzLjEgMzkxIDE4MSAzOTFIMTM5QzkyLjcgMzkxIDU1IDM1My4zIDU1IDMwN1YyNjdDNTUgMjQ0LjkgNzIuOSAyMjcgOTUgMjI3SDIyMVoiIGZpbGw9IndoaXRlIiBmaWxsLW9wYWNpdHk9IjAuOCIvPgo8cGF0aCBkPSJNMjkxIDI1M1YzNTFDMjkxIDM3My4xIDMwOC45IDM5MSAzMzEgMzkxSDM3M0M0MTkuMyAzOTEgNDU3IDM1My4zIDQ1NyAzMDdWMjY3QzQ1NyAyNDQuOSA0MzkuMSAyMjcgNDE3IDIyN0gyOTFaIiBmaWxsPSJ3aGl0ZSIgZmlsbC1vcGFjaXR5PSIwLjgiLz4KPHN2ZyBpZD0iZ3JhZGllbnQiPgo8ZGVmcz4KPGxpbmVhckdyYWRpZW50IGlkPSJncmFkaWVudCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwNTk2NjkiLz4KPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMEVBNUU5Ii8+CjwvbGluZWFyR3JhZGllbnQ+CjwvZGVmcz4KPC9zdmc+Cjwvc3ZnPg==",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIwIiBoZWlnaHQ9IjU2OCIgdmlld0JveD0iMCAwIDMyMCA1NjgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIzMjAiIGhlaWdodD0iNTY4IiBmaWxsPSIjZjJmN2ZkIi8+CjxyZWN0IHg9IjIwIiB5PSI4MCIgd2lkdGg9IjI4MCIgaGVpZ2h0PSI0MCIgcng9IjIwIiBmaWxsPSJ1cmwoI2dyYWRpZW50KSIvPgo8dGV4dCB4PSIxNjAiIHk9IjEwNSIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjE2IiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+TkFUUEFDIEtlcmFsYTwvdGV4dD4KPHN2ZyBpZD0iZ3JhZGllbnQiPgo8ZGVmcz4KPGxpbmVhckdyYWRpZW50IGlkPSJncmFkaWVudCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwNTk2NjkiLz4KPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMEVBNUU5Ii8+CjwvbGluZWFyR3JhZGllbnQ+CjwvZGVmcz4KPC9zdmc+Cjwvc3ZnPg==",
+      "sizes": "320x568",
+      "type": "image/svg+xml",
+      "form_factor": "narrow"
+    }
+  ],
+  "categories": ["travel", "navigation", "utilities"],
+  "lang": "en"
+}

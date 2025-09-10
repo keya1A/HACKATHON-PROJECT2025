@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Black Gradient Background only for Download section */
+.download-section {
+  background: linear-gradient(135deg, #000000, #1a1a1a);
+  color: white;
+}
