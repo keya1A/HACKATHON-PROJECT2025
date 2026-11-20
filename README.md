@@ -97,11 +97,6 @@ The platform collects travel information, processes mobility data, and provides 
 
 Our main objective is to build a scalable, intelligent, and privacy-focused mobility data platform that helps government authorities and transportation researchers make better decisions using real-time travel information.
 
-## 👥 Team Peregrine25
-
-**Team Members:**
-- Keya Saha
-- Amit Paul
 
 **Event:** Smart India Hackathon 2025
 
