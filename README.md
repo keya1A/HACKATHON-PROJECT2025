@@ -100,13 +100,7 @@ Our main objective is to build a scalable, intelligent, and privacy-focused mobi
 
 **Event:** Smart India Hackathon 2025
 
----
 
-<p align="center">
-  Made with ❤️ by <b>Team Peregrine25</b>
-  <br/>
-  <b>Building Smarter Mobility for Better Cities.</b>
-</p>
 
 
 
