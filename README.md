@@ -19,11 +19,11 @@ TripPulse is a smart mobility data collection platform designed to make travel s
 Traditional household travel surveys are time-consuming and require manual data collection. TripPulse addresses this problem through a mobile application that automatically detects and records users' daily travel activities using GPS and mobile device sensors.
 
 The platform collects travel information, processes mobility data, and provides useful insights through an admin/scientist dashboard to support better transportation planning and infrastructure development.
+
+
 #HOME
 <img width="958" height="505" alt="image" src="https://github.com/user-attachments/assets/e2642628-33c5-48a4-aa1d-b3f632ad6fb1" />
 
-
-<img width="902" height="458" alt="image" src="https://github.com/user-attachments/assets/b93a9546-b961-4f7c-9ad7-b744a88613cb" />
 
 ## ✨ Key Features
 
